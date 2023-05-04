@@ -1,0 +1,3 @@
+1. Changing favicon (favicon.io) and then change favicon.ico file from public folder.
+2. Install talwind css with react
+    - https://tailwindcss.com/docs/guides/create-react-app
