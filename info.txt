@@ -1,3 +1,7 @@
 1. Changing favicon (favicon.io) and then change favicon.ico file from public folder.
 2. Install talwind css with react
     - https://tailwindcss.com/docs/guides/create-react-app
+3. Install tailwind css from
+    https://github.com/tailwindlabs/tailwindcss-forms
+4. For react-icons
+    https://react-icons.github.io/react-icons/
