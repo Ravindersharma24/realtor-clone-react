@@ -10,3 +10,4 @@
     - setting up authentication , firestore database and storage and edit rules in firebase console.
 6. For notification add react-toastify (npm i react-toastify)
     -https://www.npmjs.com/package/react-toastify
+7. Sign in with google in OAuth component.
