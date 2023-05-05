@@ -5,3 +5,8 @@
     https://github.com/tailwindlabs/tailwindcss-forms
 4. For react-icons
     https://react-icons.github.io/react-icons/
+5. Adding firebase in our project
+    - npm install firebase
+    - setting up authentication , firestore database and storage and edit rules in firebase console.
+6. For notification add react-toastify (npm i react-toastify)
+    -https://www.npmjs.com/package/react-toastify
