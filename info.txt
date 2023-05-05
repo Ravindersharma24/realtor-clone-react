@@ -11,3 +11,4 @@
 6. For notification add react-toastify (npm i react-toastify)
     -https://www.npmjs.com/package/react-toastify
 7. Sign in with google in OAuth component.
+8. complete the forgot password page functionality
