@@ -12,3 +12,4 @@
     -https://www.npmjs.com/package/react-toastify
 7. Sign in with google in OAuth component.
 8. complete the forgot password page functionality
+9. create private route and custom hook (useAuthStatus) for protection the profile page and the logout functionality
